@@ -1,4 +1,4 @@
-//Autor: dc1718daw2
+//Autor: dc1718daw2 i marc ariño
 //Data i hora: 201712011403
 
 #include <stdio.h>
@@ -22,5 +22,6 @@ int main() {
 	}
 	mitjana=suma/numero_repeticions;
 	printf("La mitjana resultant és: %.2f\n",mitjana);	
+	printf("OPERACIO FINALITZADA AMB EXIT\n");	
 	return 0;
 }
